@@ -1,0 +1,30 @@
+#idiomatablet {
+	background-color: #A286A2;
+	color: blue;
+	font-family: "AgencyFB";
+	border-radius: 4px;
+	border: 2px solid blue;
+}
+
+#idiomaordenador {
+	background-color: #A286A2;
+	color: blue;
+	font-family: "AgencyFB";
+	border-radius: 4px;
+	border: 2px solid blue;
+}
+
+#botonjugar{
+	background-color: #A286A2;
+	color: blue;
+	font-family: "AgencyFB";
+	border-radius: 4px;
+	border: 2px solid blue;
+}
+
+#botonjugar:hover{
+	transition-duration: 0.2s;
+	box-shadow: 0 4px 6px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+	color: white;
+	border: 2px solid white;
+}

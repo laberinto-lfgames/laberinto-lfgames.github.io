@@ -1,0 +1,36 @@
+{
+	"name": "LABERINTO",
+	"short_name": "LABERINTO",
+	"description": "Unos malvados extraterrestres han atrapado a un valiente astronauta llamado Astro, a su hermana y a sus dos amigos extraterrestres cuando estaban por el espacio ¡Ayúdales a salir de los 10 LABERINTOS para que puedan regresar a su planeta! (CATEGORÍA = ROMPECABEZAS / PUZZLE) (EDAD = TODOS / EVERYONE)",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#a286a2",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-114.png",
+			"sizes": "114x114",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	]
+}
